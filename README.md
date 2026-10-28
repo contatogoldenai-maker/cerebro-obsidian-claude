@@ -1,11 +1,24 @@
-# Cérebro da empresa com Obsidian + Claude Code
+# Cérebro da empresa: IA com mais tempo e mais controle
 
-Kit inicial para transformar uma pasta de anotações no cérebro operacional de uma PME ou
-startup: o Obsidian guarda o que a empresa sabe, o Claude Code lê, trabalha em cima e mantém
-atualizado.
+A IA não te devolve tempo enquanto a empresa morar na sua cabeça.
 
-É o esqueleto da estrutura que a [Golden AI](https://site.goldenailtda.com) usa no próprio dia a dia,
-sem os clientes e sem nada nosso dentro. Pronto para você copiar e preencher com a sua empresa.
+Preço, cliente, o que foi combinado, o jeito de falar com cada um. Se está tudo com você, cada
+conversa com a IA começa com você explicando a empresa de novo. Ela vira mais uma pessoa para
+treinar todo dia.
+
+Este kit monta o que a [Golden AI](https://site.goldenailtda.com) usa no próprio dia a dia: a
+operação escrita uma vez, numa pasta que a IA lê sozinha toda vez que começa a trabalhar.
+
+- **Mais tempo.** Você para de explicar a empresa a cada conversa, de lembrar o que foi combinado
+  com cada cliente e de ensinar o mesmo processo para cada pessoa nova. Explica uma vez; a IA e a
+  equipe leem o mesmo lugar.
+- **Mais controle.** Cada cliente tem status, próximo passo e o que mudou, com data. Toda sessão
+  de trabalho termina com registro. Senha e chave ficam fora da pasta, e a IA trabalha sem
+  enxergar o cofre.
+
+As ferramentas são duas: o **Obsidian** (grátis) guarda as notas e o **Claude Code** (plano pago)
+trabalha em cima delas. A estrutura vem sem nenhum cliente nem dado nosso dentro, pronta para
+você preencher com a sua empresa.
 
 ## Como funciona
 
