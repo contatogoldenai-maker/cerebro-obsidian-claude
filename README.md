@@ -13,8 +13,8 @@ operação escrita uma vez, numa pasta que a IA lê sozinha toda vez que começa
   com cada cliente e de ensinar o mesmo processo para cada pessoa nova. Explica uma vez; a IA e a
   equipe leem o mesmo lugar.
 - **Mais controle.** Cada cliente tem status, próximo passo e o que mudou, com data. Toda sessão
-  de trabalho termina com registro. Senha e chave ficam fora da pasta, e a IA trabalha sem
-  enxergar o cofre.
+  que mudou algo termina com registro. Senha e chave ficam fora da pasta, e a IA é configurada
+  para não abrir arquivo de senha.
 
 As ferramentas são duas: o **Obsidian** (grátis) guarda as notas e o **Claude Code** (plano pago)
 trabalha em cima delas. A estrutura vem sem nenhum cliente nem dado nosso dentro, pronta para
@@ -38,7 +38,7 @@ Não precisa de plugin, servidor nem integração para começar.
   e a sua primeira skill, feita a partir de um processo da empresa.
 - **Uma rotina**: toda sessão que muda algo termina com o cérebro atualizado.
 - **Segurança desde o primeiro dia**: segredos fora do cofre, `.gitignore` e permissões já
-  configurados, e um verificador que roda antes de cada commit.
+  configurados, e um verificador para rodar antes de cada commit (a skill `fechar-sessao` já roda).
 
 ## Antes de começar
 
