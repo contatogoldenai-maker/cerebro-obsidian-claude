@@ -1,0 +1,23 @@
+# Segredos: nunca no Git, nem em repositório privado
+.env
+.env.*
+_local/
+SEGREDOS*
+*.pem
+*.key
+
+# Obsidian: estado da janela muda a cada clique e gera conflito entre sócios
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# Arquivo pesado vai para o drive da empresa; a nota aponta para lá
+*.mp4
+*.mov
+*.zip
+*.psd
+
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/

@@ -1,0 +1,19 @@
+name: verificar-segredos
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  varredura:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Segredo e dado pessoal (modo público)
+        run: python template/ferramentas/verificar-segredos.py . --publico
